@@ -3,7 +3,7 @@ author: 'Florian Merges <fmerges@cpan.org>'
 build_requires:
   Test::More: 0
 distribution_type: module
-generated_by: Module::Install version 0.61
+generated_by: Module::Install version 0.63
 license: perl
 name: Log-Dispatch-Configurator-YAML
 no_index:
@@ -12,4 +12,4 @@ no_index:
     - t
 requires:
   Log::Dispatch::Config: 0
-version: 0.01
+version: 0.02
