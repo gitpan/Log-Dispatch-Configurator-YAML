@@ -1,4 +1,4 @@
-Log::Dispatch::Configurator::YAML version 0.02
+Log::Dispatch::Configurator::YAML version 0.03
 ==============================================
 
 Log::Dispatch::Configurator::YAML - Configurator implementation with YAML 
@@ -18,11 +18,12 @@ This module requires these other modules and libraries:
 
 Perl modules:
 
+   YAML
    Log::Dispatch::Config
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2006 by Florian Merges <fmerges@cpan.org>
+Copyright (C) 2006,07 by Florian Merges <fmerges@cpan.org>
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.7 or,
